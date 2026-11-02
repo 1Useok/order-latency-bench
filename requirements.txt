@@ -1,0 +1,5 @@
+pyjwt==2.15.1
+requests==2.34.2
+numpy
+matplotlib
+pytest
